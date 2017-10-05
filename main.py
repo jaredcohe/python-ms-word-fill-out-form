@@ -9,7 +9,7 @@ from datetime import datetime
 data = quickstart.main()['values']
 
 # custom variables for your document
-title_of_template_document = 'INSERT TITLE OF EMPLATE DOCUMENT'
+title_of_template_document = 'INSERT TITLE OF TEMPLATE DOCUMENT'
 row_identifier = 'INSERT IDENTIFIER IF YOU WANT TO USE ONLY CERTAIN ROWS'
 search_text = '__________________'
 count_of_items_to_replace = 6
